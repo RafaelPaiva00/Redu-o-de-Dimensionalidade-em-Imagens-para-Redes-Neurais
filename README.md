@@ -37,4 +37,4 @@ O script principal realiza o carregamento da imagem (`14.jpg`) utilizando a `Pil
 
 As imagens processadas serão exibidas.
 
-link para o codigo: 
+link: [https://colab.research.google.com/drive/1wfoZJ0WhcyKeWTD-3YdQGMpqCQN9_YMj?usp=sharing](https://colab.research.google.com/drive/1wfoZJ0WhcyKeWTD-3YdQGMpqCQN9_YMj?usp=sharing)
